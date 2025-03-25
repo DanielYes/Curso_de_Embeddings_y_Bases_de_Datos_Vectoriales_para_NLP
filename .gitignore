@@ -430,4 +430,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+Ots.csv
+
 # End of https://www.toptal.com/developers/gitignore/api/venv,linux,microsoftoffice,windows,vs
